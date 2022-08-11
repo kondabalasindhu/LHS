@@ -1,0 +1,15 @@
+ #llh{
+width: 100%;
+height: 80vh;
+background-image: url("https://wallpaperaccess.com/full/136949.jpg");
+background-size: cover;
+color: white;
+/* max-width: 1024px; */
+ }
+
+
+.home {
+    color: rgb(0, 255, 128) !important;
+    padding-top: 249px !important;
+}
+ 
